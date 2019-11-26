@@ -14,3 +14,9 @@ python create_reply.py 258084 21 False
 ```
 
 ![Example](https://github.com/samuelyuan/diplomacy-replay/raw/master/examples/game258084.gif)
+
+### Examples
+
+![Example](https://github.com/samuelyuan/diplomacy-replay/raw/master/examples/game254919.gif)
+![Example](https://github.com/samuelyuan/diplomacy-replay/raw/master/examples/game219756_large.gif)
+![Example](https://github.com/samuelyuan/diplomacy-replay/raw/master/examples/game239927.gif)
